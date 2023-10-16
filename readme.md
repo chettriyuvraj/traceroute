@@ -1,6 +1,6 @@
 # README
 
-Sends ICMP packet only (instead of UDP packets which are default in Linux traceroute)
+Sends ICMP packet only (instead of UDP packets which are default in Linux traceroute).
 
 ## Usage
 
