@@ -5,7 +5,7 @@ This is a re-implementation of the linux traceroute command, which traces the pa
 Some notes: 
 - Sends ICMP packet only (instead of UDP packets which are default in Linux traceroute).
 - You must enter the _IPv4 address_ not the URL.
-- This is the [Original Repository Folder)[https://github.com/bradfield-csi-5/chettriyuvraj/tree/main/BradfieldCSI/Networks/Prework-5-Traceroute], in case you want to follow the commit history.
+- This is the [Original Repository Folder](https://github.com/bradfield-csi-5/chettriyuvraj/tree/main/BradfieldCSI/Networks/Prework-5-Traceroute), in case you want to follow the commit history.
 
 I also wrote a [small piece](https://medium.com/@chettriyuvraj/software-and-the-mirage-of-the-best-idea-29a130e27dbc) about traceroute and software in general.
 
